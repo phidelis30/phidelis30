@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phidelis
 - 👀 I’m interested in developer fullstack ....
-- 🌱 I’m currently learning React js and vue js, django, laravel, symfony, nodejs, flask, fastApi
-- 💞️ I’m looking to collaborate on , Ferber Enterprises FZ-LLC.
+- 🌱 I’m currently learning React js, Next js, Vue js, Nuxt js, Flask, Laravel, Nodejs, Nest js,
+- 💞️ I’m looking to collaborate on.
 - 📫 How to reach me ...
 
 <!---
