@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Phidelis
-- 👀 I’m interested in developer fullstack ....
-- 🌱 I’m currently learning React js, Next js, Vue js, Nuxt js, Flask, Laravel, Nodejs, Nest js,
-- 💞️ I’m looking to collaborate on.
-- 📫 How to reach me ...
+- 💼 Full-Stack Web Developer | AI Automation Solutions | Shopify Specialist
+- 🧠 4+ years of experience building, optimizing, and scaling web applications and e-commerce platforms
+- ⚙️ Tech stack: React.js, Next.js, Vue.js, Nuxt.js, Node.js, NestJS, Python, FastAPI, Laravel, Shopify, Liquid
+- 🤖 AI & Automation: LangChain, LangGraph, RAG, n8n, Zapier, business workflow automation
+- 🛒 Shopify expertise: store setup, migration, custom themes, payments, shipping, performance & SEO optimization
+- 🚀 DevOps & performance: Docker, CI/CD, VPS, Nginx, AWS, OVH, Lighthouse, Core Web Vitals
+- 🤝 Open to collaborating on SaaS products, AI automation, Shopify projects, and scalable web apps
+- 📫 Reach me:  
+  - LinkedIn: https://www.linkedin.com/in/phidelis30  
+  - Portfolio: https://phidelis-portfolio.vercel.app  
+  - Email: phidelis.dev@gmail.com
 
-<!---
-PhidelisDevelike/PhidelisDevelike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
